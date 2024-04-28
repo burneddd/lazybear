@@ -1,0 +1,24 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon" clip-path="url(#clip0_4288_35103)">
+<g id="Group 1261154295">
+<rect id="Rectangle 9789" x="31.5239" y="-2" width="69.0326" height="76.703" rx="10" transform="rotate(15 31.5239 -2)" fill="#FF5A1E"/>
+<rect id="Rectangle 9789_2" x="11.7935" y="13.2969" width="69.0326" height="76.703" rx="10" fill="white"/>
+<path id="Vector 426" d="M32.8862 38.2258L41.7591 29.5967L48.9418 38.2258L57.8147 29.5967" stroke="#17171A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect id="Rectangle 9790" x="22.3398" y="52.6074" width="45.063" height="7.6703" rx="2" fill="url(#paint0_linear_4288_35103)"/>
+<rect id="Rectangle 9791" x="22.3359" y="65.0723" width="26.846" height="7.6703" rx="2" fill="url(#paint1_linear_4288_35103)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4288_35103" x1="23.5039" y1="56.5005" x2="67.0039" y2="56.5005" gradientUnits="userSpaceOnUse">
+<stop stop-color="#17171A"/>
+<stop offset="1" stop-color="#17171A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4288_35103" x1="23.5" y1="69.0005" x2="49" y2="69.0005" gradientUnits="userSpaceOnUse">
+<stop stop-color="#17171A"/>
+<stop offset="1" stop-color="#17171A" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_4288_35103">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
